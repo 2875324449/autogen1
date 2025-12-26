@@ -80,7 +80,7 @@ python firefighter_team_prompt.py
 程序启动后，您将看到初始任务描述和 Instructor 的首轮评估。
 
 ### 常用指令
-- **接管角色**：`切换角色：Captain_Steve` （或是 Chief_Bob, Firefighter_Jack 等）
+- **接管角色**：`切换角色：Steve` （或是 Chief_Bob, Firefighter_Jack 等）
 - **调整难度**：`切换水平：专家` （让 AI 队友变得更严苛、更专业）
 - **正常对话**：直接输入您的指挥口令，如：“Jack，立即破拆A区大门，注意回燃风险！”
 
